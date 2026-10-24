@@ -4,32 +4,30 @@ nombre del plato:  *Ensalada de Fruta*
 
 ## Ingredientes
 
-- *1 taza de fresas* (cortadas en mitades)
-- *1 taza de uvas sin semillas* (cortadas a la mitad)
-- *1 taza de piña fresca* (en cubos)
-- *2 tazas de naranja* (en gajos, sin membranas ni semillas)
-- *1 taza de sandía* (en cubos y sin semillas)
-- *1 taza de melón* (en cubos)
-- *1 taza de toronja* (en gajos, sin membranas)
+# Ensalada de Siete Frutas Cremosa y Fit
 
-## Para el aderezo ligero:
+Esta versión sustituye los aderezos azucarados por yogur griego natural, manteniendo el plato libre de azúcares añadidos. Rinde para 6 u 8 personas y se prepara en 15 minutos.
 
-- 3 cucharadas de jugo de limón
-- 3 cucharadas de miel de abeja
-- 6 cucharadas de aceite de oliva
-- 1 pizca de jengibre en polvo
+##  Ingredientes
+* 1 taza de fresas (en mitades)
+* 1 taza de uvas sin semillas (a la mitad)
+* 1 taza de piña fresca (en cubos)
+* 2 tazas de naranja (gajos limpios, sin membranas ni semillas)
+* 1 taza de sandía (en cubos y sin semillas)
+* 1 taza de melón (en cubos)
+* 1 taza de toronja (gajos limpios, sin membranas)
 
-## Tiempos de Preparación
+### Base Cremosa Saludable:
+* 1 taza de yogur griego natural (0% azúcar añadido)
+* 1 cucharadita de esencia de vainilla natural (opcional, para dar aroma)
+* Hojas de menta fresca para decorar
 
-- Tiempo de preparación: 15 minutos
-- Tiempo de refrigeración *(opcional)*: 30 minutos
-- Tiempo total: 15 o 45 minutos
+---
 
-## Pasos de Preparación
+##  Preparación Paso a Paso
 
-- Lavar las frutas: Limpia y desinfecta muy bien todas las piezas de fruta antes de comenzar.
-- Cortar las frutas: Pela y pica en cubos medianos el melón, la sandía y la piña. Saca los gajos limpios de la naranja - la toronja. Corta las fresas y las uvas por la mitad.
-- Combinar los ingredientes: Coloca todas las frutas cortadas dentro de un tazón grande o ensaladera profunda.
-- Elaborar el aderezo: Mezcla en un frasco o taza pequeña el jugo de limón, la miel, el aceite de oliva y la pizca de jengibre hasta que se integren por completo.
-- Incorporar todo: Vierte el aderezo sobre las frutas y revuelve de forma suave con una espátula para evitar que los trozos delicados se rompan.
-- Enfriar y servir: Lleva la ensalada al refrigerador si la deseas bien fresca, o sírvela de inmediato.
+1. **Preparar la base:** En el fondo del tazón grande donde vas a armar la ensalada, mezcla el yogur griego con la esencia de vainilla hasta que quede suave y homogéneo.
+2. **Cortar las frutas:** Pica el melón, la sandía y la piña en cubos uniformes. Saca los gajos limpios de la naranja y toronja. Corta las fresas y uvas por la mitad. Mantén las cáscaras comestibles bien lavadas para conservar toda la fibra posible.
+3. **Incorporar:** Añade todas las frutas al tazón con el yogur.
+4. **Mezclar con cuidado:** Con una espátula o cuchara grande, realiza movimientos envolventes desde el fondo hacia arriba. El objetivo es que el yogur griego envuelva las frutas sutilmente sin llegar a triturarlas.
+5. **Servir:** Decora con hojas de menta fresca y sirve frío de inmediato para aprovechar la máxima frescura de la fibra intacta.
