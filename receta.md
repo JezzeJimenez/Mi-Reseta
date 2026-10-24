@@ -31,3 +31,14 @@ Esta versión sustituye los aderezos azucarados por yogur griego natural, manten
 3. **Incorporar:** Añade todas las frutas al tazón con el yogur.
 4. **Mezclar con cuidado:** Con una espátula o cuchara grande, realiza movimientos envolventes desde el fondo hacia arriba. El objetivo es que el yogur griego envuelva las frutas sutilmente sin llegar a triturarlas.
 5. **Servir:** Decora con hojas de menta fresca y sirve frío de inmediato para aprovechar la máxima frescura de la fibra intacta.
+
+
+## Consejo Final
+
+ - El consejo final y más importante para preparar esta receta es no mezclar el yogur griego con la fruta hasta el momento exacto en que se vaya a consumir.
+
+* Práctica recomendada:
+
+- Si preparas la ensalada para un evento o para toda la semana, pica y guarda las frutas juntas en un recipiente hermético.
+- Mantén el yogur griego en su envase original.
+- Junta ambos ingredientes directamente en el plato o tazón justo antes de comer.
