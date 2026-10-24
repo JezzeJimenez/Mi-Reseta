@@ -18,3 +18,18 @@ nombre del plato:  *Ensalada de Fruta*
 - 3 cucharadas de miel de abeja
 - 6 cucharadas de aceite de oliva
 - 1 pizca de jengibre en polvo
+
+## Tiempos de Preparación
+
+- Tiempo de preparación: 15 minutos
+- Tiempo de refrigeración *(opcional)*: 30 minutos
+- Tiempo total: 15 o 45 minutos
+
+## Pasos de Preparación
+
+- Lavar las frutas: Limpia y desinfecta muy bien todas las piezas de fruta antes de comenzar.
+- Cortar las frutas: Pela y pica en cubos medianos el melón, la sandía y la piña. Saca los gajos limpios de la naranja - la toronja. Corta las fresas y las uvas por la mitad.
+- Combinar los ingredientes: Coloca todas las frutas cortadas dentro de un tazón grande o ensaladera profunda.
+- Elaborar el aderezo: Mezcla en un frasco o taza pequeña el jugo de limón, la miel, el aceite de oliva y la pizca de jengibre hasta que se integren por completo.
+- Incorporar todo: Vierte el aderezo sobre las frutas y revuelve de forma suave con una espátula para evitar que los trozos delicados se rompan.
+- Enfriar y servir: Lleva la ensalada al refrigerador si la deseas bien fresca, o sírvela de inmediato.
