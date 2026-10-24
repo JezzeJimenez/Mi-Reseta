@@ -8,3 +8,4 @@
 - Funciona como un postre dulce sin los azúcares procesados ni la pesadez de otros dulces.
 - El aderezo de miel y limón unifica los jugos naturales en un almíbar ligero.
 - Es una opción rápida y nutritiva que rompe de forma saludable con la rutina.
+- Disfrutar una ensalada de frutas es una experiencia placentera y relajante.
