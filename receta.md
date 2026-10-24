@@ -31,6 +31,7 @@ Esta versión sustituye los aderezos azucarados por yogur griego natural, manten
 3. **Incorporar:** Añade todas las frutas al tazón con el yogur.
 4. **Mezclar con cuidado:** Con una espátula o cuchara grande, realiza movimientos envolventes desde el fondo hacia arriba. El objetivo es que el yogur griego envuelva las frutas sutilmente sin llegar a triturarlas.
 5. **Servir:** Decora con hojas de menta fresca y sirve frío de inmediato para aprovechar la máxima frescura de la fibra intacta.
+6. servir
 
 
 ## Consejo Final
